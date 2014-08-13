@@ -44,14 +44,17 @@ Collegium</a> and an MPhil student at <a href = "http://www.polyu.edu.hk/cpa/pol
 <h3>Brief Intro</h3>
 <p>I work in the area in biologically-inspired AI, and its
 application to
-cognitive robotics systems. My current research encompasses the
+cognitive robotics development. My current research encompasses the
 following
-interrelated research themes: </p>
-
-<p>★ Bootstrap learning for visual perception on artifical agents</p>
-<p>★ Building cognitive architecture to bridge between sensorimotor contigency (SMC) and cognitive processes 
+interrelated research themes: Computational Neuroscience, particularly
+focusing
+on the visual system modelling, and its relation into the affordance
+learning
+in a mirror neuron system.</p>
+<p>★ Bootstrap Learning for Visual Perception on Robots</p>
+<p>★ Developmental Psychology and its contributions to
+Developmental Robotics
 </p>
-<p>★ Other robotics applications based on biologically-inspired AI</p>
 <p>My previous research also includes SLAM, and its
 biological-inspired
 solutions.</p>
@@ -61,7 +64,7 @@ research section.
 </div>
 </div>
 <div id="footer">
-© 2012-2014 Developed by <a href="mailto:webmaster@neurobot.eu">J.
+© 2012-2013 Developed by <a href="mailto:webmaster@neurobot.eu">J.
 Zhong</a>&nbsp;&nbsp;|&nbsp;&nbsp;Design by <a href="http://psdnation.info/free-grunge-psd-website-template/" target="_blank">PSD Nation</a></div>
 </div>
 </body></html>
