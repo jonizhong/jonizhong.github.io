@@ -15,7 +15,8 @@ ZHONG</title>
 <h1 id="head"><a href="index.html"><span>Junpei</span>Zhong</a>
 </h1>
 <div id="page-wrap">
-<ul id="nav"> <li class="current_list_item"><a class="home" href="index.html">Home</a></li>
+<ul id="nav">
+<li class="current_list_item"><a class="home" href="index.html">Home</a></li>
 <li><a class="about" href="about.html">About
 Me</a></li>
 <li><a href="research.html">Research</a></li>
@@ -59,39 +60,55 @@ document.write("<center><img src='" + imlocation + randomimage()+ "' width='400'
 <p>My name is Junpei Zhong (traditional Chinese: 鍾俊培, simplified
 Chinese:
 钟俊培). I was born and grew up in the third largest city in China,
-Guangzhou, locating in the southern part. In year 2002, I attended <a href="http://en.scut.edu.cn/" target = "_blank">
+Guangzhou, locating in the southern part. In year 2002, I attended <a href="http://en.scut.edu.cn/" target="_blank">
 South China
-University of Technology</a>, which is also in Guangzhou city. There I
+University of Technology</a>, which is also in Guangzhou city.
+There I
 studied
 Control Science (major) and Computer Science (minor). Besides of taking
 required classes, I also took part in other research projects (such as
-<a href="http://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League" target = "_blank"> RobotCup </a>, embedded system design). I think my research interests
+<a href="http://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League" target="_blank"> RobotCup </a>, embedded system
+design). I think my research interests
 started since
 that time. </p>
 <p>At the year 2006, because I reached 10% of the overall ranking
 of all the
-exams, I entered Harbin Institute of Technology Shenzhen Graudate School for further study without taking
+exams, I entered Harbin Institute of Technology Shenzhen Graudate
+School for further study without taking
 <a href="http://en.wikipedia.org/wiki/Postgraduate_Admission_Test" target="_blank">the postgraduate admission examination</a>
-
-<p>However, in the year 2007, I got a full scholarship so I moved to <a href="http://www.polyu.edu.hk/cpa/polyu/index.php" target="_blank"> the Hong
+</p>
+<p>However, in the year 2007, I got a full scholarship so I moved
+to <a href="http://www.polyu.edu.hk/cpa/polyu/index.php" target="_blank"> the Hong
 Kong
-Polytechnic University</a>. I did research in a biologically SLAM algorithm on multiple
+Polytechnic University</a>. I did research in a biologically SLAM
+algorithm on multiple
 robots.
 The problem of solving a multi-robot SLAM is equal to solve a fairly
 high-dimensional problem. However, I tried to solve it with
 Ant Colony
-Optimization.  </p>
+Optimization. </p>
 <p>After I realised the power of a biological system and its
 inspiration to
 solve difficult problems, I was would really interested in the power of
 brain
-that is assumed to be even more powerful. Therefore I joined <a href = "www.uni-hamburg.de/" target = "_blank">University
+that is assumed to be even more powerful. Therefore I joined <a href="www.uni-hamburg.de/" target="_blank">University
 of
-Hamburg</a> as a research associate as well as a full-time PhD to do further research on brain modelling and its implementatoin on cognitive robotics.
-More specifically, our part in Hamburg belongs to the "Brain Node", which focus on computational
-neuroscience and its embodiment in a Cognitive Robotics system. I investigated the top-down influences on sensorimotor integration, among which can be traced as a feedback mechanism at a cognitive and neuronal levels. Since it can be regarded as a Bayesian inference, it can be modeled as recurrent connections. A few neural network architectures were designed focusing on various cognitive functions of the sensorimotor integration. This work was sponsored by <a href="http://robotdoc.org/" target="_blank" RobotDoC</a>, an EU funded Marie Curie international
+Hamburg</a> as a research associate as well as a full-time PhD to
+do further research on brain modelling and its implementatoin on
+cognitive robotics.
+More specifically, our part in Hamburg belongs to the "Brain Node",
+which focus on computational
+neuroscience and its embodiment in a Cognitive Robotics system. I
+investigated the top-down influences on sensorimotor integration, among
+which can be traced as a feedback mechanism at a cognitive and neuronal
+levels. Since it can be regarded as a Bayesian inference, it can be
+modeled as recurrent connections. A few neural network architectures
+were designed focusing on various cognitive functions of the
+sensorimotor integration. This work was sponsored by <a href="http://robotdoc.org/" target="_blank"> RobotDoC</a>,
+an EU funded Marie Curie international
 training
-network.</p></h3>
+network.</p>
+</h3>
 <h2>Short Curriculum Vitae </h2>
 <p></p>
 <h4>Education</h4>
@@ -133,12 +150,15 @@ solutions.</p>
 <p>Postgraduate Conference on Robotics and Development of
 Cognition
 (RobotDoC-PhD), Conference Organizing Committee, 2012.</p>
-<p>International Conference on Artificial Neural Networks 2014, PC member </p>
-<p>Workshop on Attention for Social Intelligence, ICSR 2014, PC member </p>
+<p>International Conference on Artificial Neural Networks 2014,
+PC member </p>
+<p>Workshop on Attention for Social Intelligence, ICSR 2014, PC
+member </p>
 <p>Ad-hoc reviewer for (among others) IET Control Theory and
 Applications,
 International Conference on Artificial Neural Networks,
-International Journal of Control, Automation and Systems, Optics Communications </p>
+International Journal of Control, Automation and Systems, Optics
+Communications </p>
 <p></p>
 <h4>Awards &amp; Honors</h4>
 <p>2002-2006 Best Student Award / Community Service Award </p>
@@ -152,11 +172,10 @@ Scholarship</p>
 <h4>Contact</h4>
 <p>Room E308, Embodied Emotion, Cognition and (Inter-)Action Lab</p>
 <p>School of Computer Science, </p>
-<p>University of Hertfordshire    </p>     
+<p>University of Hertfordshire </p>
 <p>College Lane, </p>
 <p>Hatfield, Herts AL10 9AB, </p>
 <p>United Kingdom</p>
-
 <p>Phone:0044 (0) 1707 284429</p>
 <p><a href="http://www.informatik.uni-hamburg.de/%7Ezhong/" target="_blank">http://www.informatik.uni-hamburg.de/~zhong/</a></p>
 <p> j.zhong3 AT herts.ac.uk</p>
@@ -266,7 +285,7 @@ Scholarship</p>
 <br />
 <br />
 <br />
-© 2012-2013 Developed by <a href="mailto:webmaster@neurobot.eu">J.
+© 2012-2014 Developed by <a href="mailto:webmaster@neurobot.eu">J.
 Zhong</a>&nbsp;&nbsp;|&nbsp;&nbsp;Design by <a href="http://psdnation.info/free-grunge-psd-website-template/" target="_blank">PSD Nation</a> </div>
 </div>
 </body></html>
